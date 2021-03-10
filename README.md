@@ -1,1 +1,1 @@
-# Simple-Arkanoid
+# Simple arkanoid C
